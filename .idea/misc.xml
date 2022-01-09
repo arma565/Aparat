@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/activity_category_video.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/activity_video_player.xml" value="0.264" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/cat_row.xml" value="0.125" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/fragment_category.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/fragment_favorite.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/fragment_home.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/image_layout.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/layout/video_row.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/AparatPro/app/src/main/res/menu/navi_menu.xml" value="0.17222222222222222" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/activity_category_video.xml" value="0.22114402451481102" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/activity_main.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/activity_video_player.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/cat_row.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/fragment_category.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/fragment_favorite.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/fragment_home.xml" value="0.22114402451481102" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/image_layout.xml" value="0.22552083333333334" />
+        <entry key="..\:/AndroidProgramming/AndroidProjects/Java/AparatPro/app/src/main/res/layout/video_row.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/drawable/lable_style.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/activity_category_video.xml" value="0.1361111111111111" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/activity_video_player.xml" value="0.2" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/cat_row.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/fragment_category.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/fragment_favorite.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/fragment_home.xml" value="0.1935185185185185" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/image_layout.xml" value="0.18796296296296297" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/layout/video_row.xml" value="0.264" />
+        <entry key="..\:/Users/rezeli/AparatPro/app/src/main/res/menu/navi_menu.xml" value="0.1675925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
